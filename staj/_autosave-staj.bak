@@ -1,0 +1,356 @@
+EESchema Schematic File Version 5
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R R?
+U 1 1 5E2051BC
+P 2955 2520
+F 0 "R?" H 3025 2566 50  0000 L CNN
+F 1 "100" H 3025 2475 50  0000 L CNN
+F 2 "" V 2885 2520 50  0001 C CNN
+F 3 "~" H 2955 2520 50  0001 C CNN
+	1    2955 2520
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E206AC3
+P 3730 2045
+F 0 "R?" V 3523 2045 50  0000 C CNN
+F 1 "370k" V 3614 2045 50  0000 C CNN
+F 2 "" V 3660 2045 50  0001 C CNN
+F 3 "~" H 3730 2045 50  0001 C CNN
+	1    3730 2045
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E20731D
+P 4650 2040
+F 0 "R?" V 4443 2040 50  0000 C CNN
+F 1 "100k" V 4534 2040 50  0000 C CNN
+F 2 "" V 4580 2040 50  0001 C CNN
+F 3 "~" H 4650 2040 50  0001 C CNN
+	1    4650 2040
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E2078BA
+P 5395 1600
+F 0 "R?" H 5465 1646 50  0000 L CNN
+F 1 "91k" H 5465 1555 50  0000 L CNN
+F 2 "" V 5325 1600 50  0001 C CNN
+F 3 "~" H 5395 1600 50  0001 C CNN
+	1    5395 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E207F14
+P 6050 2050
+F 0 "R?" V 5843 2050 50  0000 C CNN
+F 1 "11.1k" V 5934 2050 50  0000 C CNN
+F 2 "" V 5980 2050 50  0001 C CNN
+F 3 "~" H 6050 2050 50  0001 C CNN
+	1    6050 2050
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E2084C4
+P 3705 3855
+F 0 "R?" V 3498 3855 50  0000 C CNN
+F 1 "370k" V 3589 3855 50  0000 C CNN
+F 2 "" V 3635 3855 50  0001 C CNN
+F 3 "~" H 3705 3855 50  0001 C CNN
+	1    3705 3855
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E208E28
+P 4720 3835
+F 0 "R?" V 4513 3835 50  0000 C CNN
+F 1 "100k" V 4604 3835 50  0000 C CNN
+F 2 "" V 4650 3835 50  0001 C CNN
+F 3 "~" H 4720 3835 50  0001 C CNN
+	1    4720 3835
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E205B1E
+P 2950 3140
+F 0 "R?" H 3020 3186 50  0000 L CNN
+F 1 "100" H 3020 3095 50  0000 L CNN
+F 2 "" V 2880 3140 50  0001 C CNN
+F 3 "~" H 2950 3140 50  0001 C CNN
+	1    2950 3140
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2955 2665 2955 2670
+Wire Wire Line
+	2955 2990 2950 2990
+Connection ~ 2955 2670
+Wire Wire Line
+	2955 2670 2955 2990
+Connection ~ 2950 2990
+Wire Wire Line
+	2955 2365 2955 2045
+Wire Wire Line
+	2955 2045 3580 2045
+Wire Wire Line
+	2955 2370 2960 2370
+Wire Wire Line
+	2960 2370 2960 2365
+Connection ~ 2955 2370
+Wire Wire Line
+	3880 2050 4495 2050
+Wire Wire Line
+	4495 2050 4495 2040
+Wire Wire Line
+	4495 2040 4500 2040
+Connection ~ 4500 2040
+Wire Wire Line
+	3880 2040 3880 2045
+Connection ~ 3880 2045
+Wire Wire Line
+	2950 3290 2950 3855
+Wire Wire Line
+	2950 3855 3555 3855
+Wire Wire Line
+	3855 3855 4565 3855
+Wire Wire Line
+	4565 3855 4565 3835
+Wire Wire Line
+	4565 3835 4570 3835
+Connection ~ 4570 3835
+Wire Wire Line
+	4795 2040 4800 2040
+Wire Wire Line
+	5395 2040 5395 1750
+Connection ~ 4800 2040
+Wire Wire Line
+	4800 2040 5395 2040
+Wire Wire Line
+	5395 2040 5895 2040
+Wire Wire Line
+	5895 2040 5895 2045
+Connection ~ 5395 2040
+Connection ~ 5895 2045
+$Comp
+L Device:R R?
+U 1 1 5E206999
+P 5410 2990
+F 0 "R?" H 5480 3036 50  0000 L CNN
+F 1 "1.1k" H 5480 2945 50  0000 L CNN
+F 2 "" V 5340 2990 50  0001 C CNN
+F 3 "~" H 5410 2990 50  0001 C CNN
+	1    5410 2990
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4865 3835 4870 3835
+Wire Wire Line
+	5410 3835 5410 3140
+Connection ~ 4870 3835
+Wire Wire Line
+	4870 3835 5410 3835
+Wire Wire Line
+	5405 2035 5405 2840
+Wire Wire Line
+	5405 2840 5410 2840
+Connection ~ 5410 2840
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E2092B6
+P 6045 1270
+F 0 "J?" H 6125 1260 50  0000 L CNN
+F 1 "Conn_01x02" H 6125 1171 50  0000 L CNN
+F 2 "" H 6045 1270 50  0001 C CNN
+F 3 "~" H 6045 1270 50  0001 C CNN
+	1    6045 1270
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 1445 5400 1225
+Wire Wire Line
+	5400 1225 5390 1225
+$Comp
+L Connector_Generic:Conn_01x08 J?
+U 1 1 5E20A295
+P 1250 2975
+F 0 "J?" H 1330 2967 50  0000 L CNN
+F 1 "Conn_01x08" H 1330 2876 50  0000 L CNN
+F 2 "" H 1250 2975 50  0001 C CNN
+F 3 "~" H 1250 2975 50  0001 C CNN
+	1    1250 2975
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Analog:AD820 U?
+U 1 1 5E20AD2E
+P 9330 2190
+F 0 "U?" H 9305 2805 50  0000 C CNN
+F 1 "AD820" H 9305 2714 50  0000 C CNN
+F 2 "" H 9330 2190 50  0001 C CNN
+F 3 "" H 9330 2190 50  0001 C CNN
+	1    9330 2190
+	1    0    0    -1  
+$EndComp
+$Comp
+L Analog:AD820 U?
+U 1 1 5E2142E1
+P 6750 3915
+F 0 "U?" H 6725 4530 50  0000 C CNN
+F 1 "AD820" H 6725 4439 50  0000 C CNN
+F 2 "" H 6750 3915 50  0001 C CNN
+F 3 "" H 6750 3915 50  0001 C CNN
+	1    6750 3915
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E21A292
+P 7905 2750
+F 0 "R?" V 7698 2750 50  0000 C CNN
+F 1 "10k" V 7789 2750 50  0000 C CNN
+F 2 "" V 7835 2750 50  0001 C CNN
+F 3 "~" H 7905 2750 50  0001 C CNN
+	1    7905 2750
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E21ABEC
+P 7125 4940
+F 0 "R?" V 6918 4940 50  0000 C CNN
+F 1 "82.5k" V 7009 4940 50  0000 C CNN
+F 2 "" V 7055 4940 50  0001 C CNN
+F 3 "~" H 7125 4940 50  0001 C CNN
+	1    7125 4940
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E21B104
+P 8705 2750
+F 0 "R?" V 8498 2750 50  0000 C CNN
+F 1 "51k" V 8589 2750 50  0000 C CNN
+F 2 "" V 8635 2750 50  0001 C CNN
+F 3 "~" H 8705 2750 50  0001 C CNN
+	1    8705 2750
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E21B884
+P 7855 5080
+F 0 "R?" H 7785 5034 50  0000 R CNN
+F 1 "10k" H 7785 5125 50  0000 R CNN
+F 2 "" V 7785 5080 50  0001 C CNN
+F 3 "~" H 7855 5080 50  0001 C CNN
+	1    7855 5080
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7275 4940 7855 4940
+$Comp
+L power:GND #PWR?
+U 1 1 5E21C933
+P 7855 5415
+F 0 "#PWR?" H 7855 5165 50  0001 C CNN
+F 1 "GND" H 7860 5242 50  0000 C CNN
+F 2 "" H 7855 5415 50  0001 C CNN
+F 3 "" H 7855 5415 50  0001 C CNN
+	1    7855 5415
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7850 5230 7855 5230
+Connection ~ 7855 5230
+Wire Wire Line
+	7850 5415 7855 5415
+Wire Wire Line
+	7850 5230 7850 5410
+Connection ~ 7850 5410
+Wire Wire Line
+	7850 5410 7850 5415
+Wire Wire Line
+	8855 2750 9095 2750
+Wire Wire Line
+	7755 2750 7655 2750
+Wire Wire Line
+	6975 4940 6855 4940
+Wire Wire Line
+	7855 4700 7900 4700
+Wire Wire Line
+	7855 4700 7855 4945
+Connection ~ 7855 4945
+Text Label 7905 4695 0    50   ~ 0
++Vs
+Text Label 8605 2400 0    50   ~ 0
+-Vs
+Text Label 9090 2750 0    50   ~ 0
+Vout
+Text Label 7655 2750 2    50   ~ 0
+Vin
+Text Label 6855 4945 0    50   ~ 10
+Vcc
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5E21F74F
+P 5385 1225
+F 0 "#PWR?" H 5385 1075 50  0001 C CNN
+F 1 "+3.3V" H 5400 1398 50  0000 C CNN
+F 2 "" H 5385 1225 50  0001 C CNN
+F 3 "" H 5385 1225 50  0001 C CNN
+	1    5385 1225
+	1    0    0    -1  
+$EndComp
+Connection ~ 5385 1225
+Wire Wire Line
+	5415 3830 5715 3830
+Connection ~ 5415 3830
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5E2200FC
+P 5710 3825
+F 0 "#PWR?" H 5710 3675 50  0001 C CNN
+F 1 "+3.3V" H 5725 3998 50  0000 C CNN
+F 2 "" H 5710 3825 50  0001 C CNN
+F 3 "" H 5710 3825 50  0001 C CNN
+	1    5710 3825
+	1    0    0    -1  
+$EndComp
+Connection ~ 5710 3825
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 5E2214D5
+P 5710 3995
+F 0 "J?" H 5790 3987 50  0000 L CNN
+F 1 "Conn_01x02" H 5790 3896 50  0000 L CNN
+F 2 "" H 5710 3995 50  0001 C CNN
+F 3 "~" H 5710 3995 50  0001 C CNN
+	1    5710 3995
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8475 2490 8830 2490
+Wire Wire Line
+	8055 2750 8555 2750
+$EndSCHEMATC
