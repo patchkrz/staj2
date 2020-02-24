@@ -1,0 +1,39 @@
+Change Component Footprint: Designator=R15 Old Footprint=R1206 New Footprint=R0805 - duplicate2
+Change component parameters: Designator = "C1"; Footprint = "C0805"; UniqueID = "\ZJQVEPHO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "C2"; Footprint = "C0805"; UniqueID = "\NBDUBIZL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "C3"; Footprint = "C0805"; UniqueID = "\OVCOHKJB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R1"; Footprint = "R0805 - duplicate2"; UniqueID = "\SNNRCZWG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R2"; Footprint = "R0805 - duplicate2"; UniqueID = "\XHTKSSUM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R3"; Footprint = "R0805 - duplicate2"; UniqueID = "\FBHTFOQU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R4"; Footprint = "R0805 - duplicate2"; UniqueID = "\BTSGOFDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R5"; Footprint = "POT3"; UniqueID = "\ZWAFCBWL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R6"; Footprint = "R0805 - duplicate2"; UniqueID = "\AKBSRJMY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R7"; Footprint = "R0805 - duplicate2"; UniqueID = "\XBZDWLSL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R8"; Footprint = "R0805 - duplicate2"; UniqueID = "\IZGYBCDR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R9"; Footprint = "R0805 - duplicate2"; UniqueID = "\RHLRCQJN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R10"; Footprint = "R0805 - duplicate2"; UniqueID = "\XVSLOUYC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R11"; Footprint = "R0805 - duplicate2"; UniqueID = "\CUWLAGIX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R12"; Footprint = "R0805 - duplicate2"; UniqueID = "\FVZIDGRC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R13"; Footprint = "R0805 - duplicate2"; UniqueID = "\FHQAYUDN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R14"; Footprint = "R0805 - duplicate2"; UniqueID = "\HRTESGKC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R15"; Footprint = "R0805 - duplicate2"; UniqueID = "\LTPCTJKD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "R16"; Footprint = "R0805 - duplicate2"; UniqueID = "\IBHJTLBX"
+Change component parameters. Clean all parameters for all variants

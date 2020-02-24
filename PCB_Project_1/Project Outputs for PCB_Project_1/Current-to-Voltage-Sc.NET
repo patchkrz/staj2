@@ -1,0 +1,77 @@
+PARTS LIST
+
+Capacitor         C0805           C1
+Capacitor         C0805           C2
+Capacitor         C0805           C3
+LED                               D1
+Header 8          HDR1X8          P1
+Header 8          HDR1X8          P2
+Resistor          R0805 - duplicate2R1
+Resistor          R0805 - duplicate2R2
+Resistor          R0805 - duplicate2R3
+Resistor          R0805 - duplicate2R4
+Potentiometer     POT3            R5
+Resistor          R0805 - duplicate2R6
+Resistor          R0805 - duplicate2R7
+Resistor          R0805 - duplicate2R8
+Resistor          R0805 - duplicate2R9
+Resistor          R0805 - duplicate2R10
+Resistor          R0805 - duplicate2R11
+Resistor          R0805 - duplicate2R12
+Resistor          R0805 - duplicate2R13
+Resistor          R0805 - duplicate2R14
+Resistor          R0805 - duplicate2R15
+Resistor          R0805 - duplicate2R16
+AD820             SOIC127P600X175-8NU1
+AD820             SOIC127P600X175-8NU2
+MC7815            DPAK229P991X238-3NU3
+NCP5146           SOT95P237X110-3NU4
+LM4041-ADJ                        U5
+EOS
+NET LIST
+
+NODENAME VOUT             $
+    P2         2  R12       21  U2         6
+NODENAME VIN              $
+    R9        22  R11       22  U1         6
+NODENAME QA               $
+    P1         2  R2        21  R3        22
+NODENAME Q2               $
+    P1         7  P2         7
+NODENAME Q1               $
+    P1         4  P2         4
+NODENAME NetD1-2          $
+    D1         2  R13       21
+NODENAME NetR1-21         $
+    R1        21  R2        22
+NODENAME NetR1-22         $
+    R1        22  R5         1
+NODENAME NetR3-21         $
+    R3        21  R4        21
+NODENAME NetR4-22         $
+    R4        22  R6        21  U1         3
+NODENAME NetR5-2          $
+    R5         2  U1         2
+NODENAME NetR5-3          $
+    R5         3  R7        21
+NODENAME NetR7-22         $
+    R7        22  R8        22  R9        21  R10       21
+NODENAME NetR11-21        $
+    R11       21  R12       22  U2         2
+NODENAME NetR15-22        $
+    R15       22  R16       22  U5         1
+NODENAME MF               $
+    P1         5  P2         5
+NODENAME M                $
+    P1         3  P2         3
+NODENAME L+               $
+    C1        24  P1         1  P2         1  R13       22  U3         1
+NODENAME GND              $
+    C1        23  C2        23  C3        23  D1         1  R15       21  U1         4  U2         4  U3         2  U4         3  U5         3
+NODENAME 15V              $
+    C2        24  C3        24  R14       22  U1         7  U2         7  U3         3  U4         1
+NODENAME 3V3              $
+    R6        22  R8        21  U4         2
+NODENAME 1.62V            $
+    R14       21  R16       21  U2         3  U5         2
+EOS

@@ -1,0 +1,7 @@
+Added Component: Designator=R17(R0805 - duplicate2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=15V Pin=R17-2
+Added Pin To Net: NetName=NetD2_29 Pin=R17-1
+Added Net: Name=NetD2_29
+Added Member To Class: ClassName=Current-to-Voltage-Sc Member=Component R17 Resistor
+Added Room: Name=Current-to-Voltage-Sc

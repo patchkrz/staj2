@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VOUT Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VOUT Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VOUT Pin=C6-2
+Added Room: Name=Current-to-Voltage-Sc

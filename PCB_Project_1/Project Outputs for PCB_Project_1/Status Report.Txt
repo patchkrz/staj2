@@ -1,0 +1,10 @@
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
+From  : Project [PCB_Project_1.PrjPcb]
+   Generated File[Current-to-Voltage-Sc.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:28:56 On 20/02/2020

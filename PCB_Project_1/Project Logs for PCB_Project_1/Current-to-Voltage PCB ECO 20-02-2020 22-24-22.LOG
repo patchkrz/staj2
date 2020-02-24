@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetR1_22 Pin=R5-1
+Removed Pin From Net: NetName=NetR11_21 Pin=U2-2
+Removed Pin From Net: NetName=NetR15_22 Pin=U5-1
+Added Pin To Net: NetName=NetR15_22 Pin=R1-1
+Added Pin To Net: NetName=NetR11_21 Pin=R1-2
+Added Pin To Net: NetName=QA Pin=R2-1
+Added Pin To Net: NetName=NetR15_22 Pin=R2-2
+Added Pin To Net: NetName=NetR7_22 Pin=R3-1
+Added Pin To Net: NetName=QA Pin=R3-2
+Added Pin To Net: NetName=NetR7_22 Pin=R4-1
+Added Pin To Net: NetName=NetR4_22 Pin=R4-2
+Added Pin To Net: NetName=NetR11_21 Pin=R5-1
+Added Pin To Net: NetName=NetR4_22 Pin=R6-1
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=NetR5_3 Pin=R7-1
+Added Pin To Net: NetName=NetR3_21 Pin=R7-2
+Added Pin To Net: NetName=3V3 Pin=R8-1
+Added Pin To Net: NetName=NetR3_21 Pin=R8-2
+Added Pin To Net: NetName=NetR3_21 Pin=R9-1
+Added Pin To Net: NetName=VIN Pin=R9-2
+Added Pin To Net: NetName=NetR3_21 Pin=R10-1
+Added Pin To Net: NetName=NetR1_22 Pin=R11-1
+Added Pin To Net: NetName=VIN Pin=R11-2
+Added Pin To Net: NetName=VOUT Pin=R12-1
+Added Pin To Net: NetName=NetR1_22 Pin=R12-2
+Added Pin To Net: NetName=NetD1_2 Pin=R13-1
+Added Pin To Net: NetName=L+ Pin=R13-2
+Added Pin To Net: NetName=1.62V Pin=R14-1
+Added Pin To Net: NetName=15V Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=NetR1_21 Pin=R15-2
+Added Pin To Net: NetName=1.62V Pin=R16-1
+Added Pin To Net: NetName=NetR1_21 Pin=R16-2
+Added Pin To Net: NetName=NetR1_22 Pin=U2-2
+Added Pin To Net: NetName=NetR1_21 Pin=U5-1
+Change Net Name : Old Net Name=NetR1_21 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR1_22 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR3_21 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR4_22 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR7_22 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR11_21 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR15_22 New Net Name=NetR1_1
