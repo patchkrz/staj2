@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=QA Pin=P1-1
+Removed Pin From Net: NetName=M Pin=P1-3
+Added Pin To Net: NetName=M Pin=P1-1
+Added Pin To Net: NetName=QA Pin=P1-3
+Added Room: Name=Current-to-Voltage-Sc

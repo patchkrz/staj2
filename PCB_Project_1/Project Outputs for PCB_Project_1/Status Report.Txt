@@ -1,10 +1,14 @@
-Output: Cadnetix Netlist
-Type  : CadnetixNetlist
-From  : Project [PCB_Project_1.PrjPcb]
-   Generated File[Current-to-Voltage-Sc.NET]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project_1.PrjPcb]
+   Generated File[Current-to-Voltage.GTL]
+   Generated File[Current-to-Voltage.GM15]
+   Generated File[Current-to-Voltage.RUL]
+   Generated File[Current-to-Voltage.EXTREP]
+   Generated File[Current-to-Voltage.REP]
 
 
-Files Generated   : 1
+Files Generated   : 5
 Documents Printed : 0
 
-Finished Output Generation At 19:28:56 On 20/02/2020
+Finished Output Generation At 17:14:01 On 11/03/2020

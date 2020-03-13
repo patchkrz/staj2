@@ -1,0 +1,10 @@
+Change component parameters: Designator = "C2"; Footprint = "C0805"; UniqueID = "\NBDUBIZL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=15V Pin=C5-2
+Added Member To Class: ClassName=Current-to-Voltage-Sc Member=Component C5 Capacitor
+Added Room: Name=Current-to-Voltage-Sc

@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\EFE\Desktop\New folder (2)\staj2\PCB_Project_1\Current-to-Voltage.PcbDoc
+RuleKind=Width|RuleName=0.6mm|Scope=Board|Minimum=23.62
+RuleKind=Width|RuleName=0.4mm|Scope=Board|Minimum=15.75
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
