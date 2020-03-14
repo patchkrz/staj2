@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KDPAVSQX
 
 [Document2]
-DocumentPath=Current-to-Voltage-Sc.SchDoc
+DocumentPath=..\PCB_Project_1\Current-to-Voltage-Sc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LHDXXDUG
 
 [Document3]
-DocumentPath=Current-to-Voltage.PcbLib
+DocumentPath=..\PCB_Project_1\Current-to-Voltage.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Current-to-Voltage-Schlib.SchLib
+DocumentPath=..\PCB_Project_1\Current-to-Voltage-Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GALGIAIK
 
 [Document6]
-DocumentPath=Project Outputs for PCB_Project_1\__Previews\CAMtastic1.Cam
+DocumentPath=..\PCB_Project_1\Project Outputs for PCB_Project_1\__Previews\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=PCB_Project_1.OutJob
+DocumentPath=..\PCB_Project_1\PCB_Project_1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,7 +157,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=Job1.OutJob
+DocumentPath=..\PCB_Project_1\Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=Job2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -174,35 +191,35 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PCB_Project_1\Current-to-Voltage.EXTREP
+DocumentPath=..\PCB_Project_1\Project Outputs for PCB_Project_1\Current-to-Voltage.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Project_1\Current-to-Voltage.GBL
+DocumentPath=..\PCB_Project_1\Project Outputs for PCB_Project_1\Current-to-Voltage.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for PCB_Project_1\Current-to-Voltage.GM15
+DocumentPath=..\PCB_Project_1\Project Outputs for PCB_Project_1\Current-to-Voltage.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for PCB_Project_1\Current-to-Voltage.GTL
+DocumentPath=..\PCB_Project_1\Project Outputs for PCB_Project_1\Current-to-Voltage.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for PCB_Project_1\Current-to-Voltage.GTO
+DocumentPath=..\PCB_Project_1\Project Outputs for PCB_Project_1\Current-to-Voltage.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_Project_1\Current-to-Voltage.REP
+DocumentPath=..\PCB_Project_1\Project Outputs for PCB_Project_1\Current-to-Voltage.REP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for PCB_Project_1\Current-to-Voltage.RUL
+DocumentPath=..\PCB_Project_1\Project Outputs for PCB_Project_1\Current-to-Voltage.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for PCB_Project_1\Design Rule Check - Current-to-Voltage.html
+DocumentPath=..\PCB_Project_1\Project Outputs for PCB_Project_1\Design Rule Check - Current-to-Voltage.html
 DItemRevisionGUID=
 
 [Configuration1]
